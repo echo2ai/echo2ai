@@ -44,6 +44,7 @@ React / Vue / TypeScript / Java / Go
 ### ⚡ Fun fact
 I believe open collaboration makes tech better!
 
+### 🔧 Tech stack
 <p align="left">
 <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -51,6 +52,3 @@ I believe open collaboration makes tech better!
  <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 <p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo2ai&layout=compact&langs_count=5" alt="Most Used Languages">
-</p>
