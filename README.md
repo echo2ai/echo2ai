@@ -56,17 +56,3 @@ I believe open collaboration makes tech better!
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo2ai&layout=compact&langs_count=5" alt="Most Used Languages">
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=echo2ai&show_icons=true&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <a href="https://dev.to/echo2ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" width="40" height="40" alt="Dev.to"></a>
-  <a href="https://twitter.com/echo2ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="40" height="40" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/echo2ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=echo2ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
